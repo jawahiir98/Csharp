@@ -1,2 +1,2 @@
-# C-C-Sharp-
+#C#
 Point of sales system web application using C#
